@@ -63,8 +63,9 @@ export default function Home() {
               <p>Hæææ?? hva skal det bety?</p>
               <p>Det betyr at du skal ta på kostyme som matcher en sang</p>
               <p>
-                For eksempel hvis du liker "raining men" kan du ta på en skjorte
-                med menn. Og hvis du liker "I'm blue" kan du ta på blå klær.
+                For eksempel hvis du fakker med Esprosso av Sabrina Carpenter og
+                føler deg som en queen, kan du ta på en espresso tskjorte. Og
+                hvis du liker "I'm blue" kan du ta på blå klær.
               </p>
               <p className="font-bold">LYKKE TIL!! Vi sees</p>
             </div>
